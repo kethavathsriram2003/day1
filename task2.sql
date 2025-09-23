@@ -1,4 +1,4 @@
-CREATE TABLE student1(
+CREATE TABLE student(
 name VARCHAR(10),
 age INT DEFAULT 18,
 dateofbirth DATE,
