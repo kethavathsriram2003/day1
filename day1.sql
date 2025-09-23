@@ -1,5 +1,5 @@
 CREATE DATABASE library1;
-USE library;
+USE library1;
 CREATE TABLE Authors(
     author_id INT PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
